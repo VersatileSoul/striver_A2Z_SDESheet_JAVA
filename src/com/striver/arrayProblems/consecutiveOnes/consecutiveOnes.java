@@ -1,4 +1,4 @@
-package com.striver.arrayProblems;
+package com.striver.arrayProblems.consecutiveOnes;
 
 import java.util.Scanner;
 
