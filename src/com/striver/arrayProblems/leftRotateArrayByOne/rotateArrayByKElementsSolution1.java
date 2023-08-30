@@ -1,6 +1,8 @@
-package com.striver.arrayProblems;
-import java.util.*;
-public class rotateArrayByKElements1 {
+package com.striver.arrayProblems.leftRotateArrayByOne;
+
+import java.util.Scanner;
+
+public class rotateArrayByKElementsSolution1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
